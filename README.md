@@ -1,3 +1,9 @@
+# Purpose
+this project is made to learn how to get data from public API
+
+# HOW TO USE?
+You can search by using "ability name" of the pokemon
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
